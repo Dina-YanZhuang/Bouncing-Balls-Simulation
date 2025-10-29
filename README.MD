@@ -21,6 +21,7 @@ The final version (`balls6.py`) integrates all features into a cohesive, interac
 Install dependencies:
 ```bash
 pip install pygame
+```
 
 ## File Structure and Descriptions
 ball.py
