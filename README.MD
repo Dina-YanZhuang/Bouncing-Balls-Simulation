@@ -121,7 +121,7 @@ r → Randomize all balls
 
 Arrow keys → Move the player (in balls5.py and balls6.py)
 
-Key Features
+## Key Features
 
 Object-oriented simulation with encapsulated state and behavior.
 
