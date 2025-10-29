@@ -24,7 +24,7 @@ pip install pygame
 ```
 
 ## File Structure and Descriptions
-ball.py
+`ball.py`
 
 Basic version with multiple balls moving vertically.
 
@@ -32,7 +32,7 @@ Controlled via arrow keys; spacebar stops movement.
 
 Demonstrates fundamental Pygame setup, event handling, and boundary constraints.
 
-balls1.py
+`balls1.py`
 
 Adds horizontal movement using left/right arrow keys.
 
@@ -40,7 +40,7 @@ Prevents balls from leaving the window in any direction.
 
 Establishes the foundation for full 2D control.
 
-balls2.py
+`balls2.py`
 
 Introduces individual ball attributes:
 
@@ -50,7 +50,7 @@ Removes global constants for size and color.
 
 Demonstrates instance-based customization and randomization.
 
-balls3.py
+`balls3.py`
 
 Adds independent motion for each ball:
 
@@ -60,7 +60,7 @@ Balls bounce off window edges on collision.
 
 Eliminates manual key control for autonomous animation.
 
-balls4.py
+`balls4.py`
 
 Implements a randomize() method for each ball:
 
@@ -74,7 +74,7 @@ Press + to create a new randomly placed ball.
 
 Demonstrates dynamic object creation and event-driven updates.
 
-balls5.py
+`balls5.py`
 
 Introduces a Player class:
 
@@ -96,7 +96,7 @@ Simplified main loop for modularity and readability.
 
 Produces a complete, interactive simulation.
 
-prep_nn.py
+`prep_nn.py`
 
 Independent script implementing a minimal neural network forward pass.
 
@@ -108,7 +108,7 @@ How to Run
 
 Each file can be executed independently:
 
-python balls6.py
+`python balls6.py`
 
 
 Controls:
